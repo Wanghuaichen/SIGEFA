@@ -1,0 +1,69 @@
+D:\PRUEBAS\SunatFE\bin\Debug\SunatFE.dll.config
+D:\PRUEBAS\SunatFE\bin\Debug\SunatFE.dll
+D:\PRUEBAS\SunatFE\bin\Debug\SunatFE.pdb
+D:\PRUEBAS\SunatFE\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\PRUEBAS\SunatFE\bin\Debug\DotNetZip.dll
+D:\PRUEBAS\SunatFE\bin\Debug\itextsharp.dll
+D:\PRUEBAS\SunatFE\bin\Debug\Microsoft.Web.Services3.dll
+D:\PRUEBAS\SunatFE\bin\Debug\System.Net.Http.dll
+D:\PRUEBAS\SunatFE\bin\Debug\zxing.dll
+D:\PRUEBAS\SunatFE\bin\Debug\Interop.AcroPDFLib.dll
+D:\PRUEBAS\SunatFE\bin\Debug\System.Net.Http.xml
+D:\PRUEBAS\SunatFE\bin\Debug\es\System.Net.Http.resources.dll
+D:\PRUEBAS\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+D:\PRUEBAS\SunatFE\obj\Debug\SunatFE.dll
+D:\PRUEBAS\SunatFE\obj\Debug\SunatFE.pdb
+D:\SGE\CARSALSI\CARSALSI\SunatFE\bin\Debug\SunatFE.dll.config
+D:\SGE\CARSALSI\CARSALSI\SunatFE\bin\Debug\SunatFE.dll
+D:\SGE\CARSALSI\CARSALSI\SunatFE\bin\Debug\SunatFE.pdb
+D:\SGE\CARSALSI\CARSALSI\SunatFE\bin\Debug\Interop.AcroPDFLib.dll
+D:\SGE\CARSALSI\CARSALSI\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+D:\SGE\CARSALSI\CARSALSI\SunatFE\obj\Debug\SunatFE.dll
+D:\SGE\CARSALSI\CARSALSI\SunatFE\obj\Debug\SunatFE.pdb
+D:\SGE\CARSALSI\SunatFE\bin\Debug\SunatFE.dll.config
+D:\SGE\CARSALSI\SunatFE\bin\Debug\SunatFE.dll
+D:\SGE\CARSALSI\SunatFE\bin\Debug\SunatFE.pdb
+D:\SGE\CARSALSI\SunatFE\bin\Debug\Interop.AcroPDFLib.dll
+D:\SGE\CARSALSI\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+D:\SGE\CARSALSI\SunatFE\obj\Debug\SunatFE.dll
+D:\SGE\CARSALSI\SunatFE\obj\Debug\SunatFE.pdb
+D:\PROYECTOS\CARSALSI\SunatFE\bin\Debug\SunatFE.dll.config
+D:\PROYECTOS\CARSALSI\SunatFE\bin\Debug\SunatFE.dll
+D:\PROYECTOS\CARSALSI\SunatFE\bin\Debug\SunatFE.pdb
+D:\PROYECTOS\CARSALSI\SunatFE\obj\Debug\SunatFE.dll
+D:\PROYECTOS\CARSALSI\SunatFE\obj\Debug\SunatFE.pdb
+E:\Proyectos\PROYECTO CARSALSI\CARSALSI\SunatFE\bin\Debug\SunatFE.dll.config
+E:\Proyectos\PROYECTO CARSALSI\CARSALSI\SunatFE\bin\Debug\SunatFE.dll
+E:\Proyectos\PROYECTO CARSALSI\CARSALSI\SunatFE\bin\Debug\SunatFE.pdb
+E:\Proyectos\PROYECTO CARSALSI\CARSALSI\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+E:\Proyectos\PROYECTO CARSALSI\CARSALSI\SunatFE\obj\Debug\SunatFE.dll
+E:\Proyectos\PROYECTO CARSALSI\CARSALSI\SunatFE\obj\Debug\SunatFE.pdb
+E:\Proyectos\PRYECTO VETERINARIA PIURA\SGE VETERINARIA PIURA\SunatFE\bin\Debug\SunatFE.dll.config
+E:\Proyectos\PRYECTO VETERINARIA PIURA\SGE VETERINARIA PIURA\SunatFE\bin\Debug\SunatFE.dll
+E:\Proyectos\PRYECTO VETERINARIA PIURA\SGE VETERINARIA PIURA\SunatFE\bin\Debug\SunatFE.pdb
+E:\Proyectos\PRYECTO VETERINARIA PIURA\SGE VETERINARIA PIURA\SunatFE\obj\Debug\SunatFE.dll
+E:\Proyectos\PRYECTO VETERINARIA PIURA\SGE VETERINARIA PIURA\SunatFE\obj\Debug\SunatFE.pdb
+E:\Proyectos\PRYECTO VETERINARIA PIURA\SGE VETERINARIA PIURA FINAL\SunatFE\bin\Debug\SunatFE.dll.config
+E:\Proyectos\PRYECTO VETERINARIA PIURA\SGE VETERINARIA PIURA FINAL\SunatFE\bin\Debug\SunatFE.dll
+E:\Proyectos\PRYECTO VETERINARIA PIURA\SGE VETERINARIA PIURA FINAL\SunatFE\bin\Debug\SunatFE.pdb
+E:\Proyectos\PRYECTO VETERINARIA PIURA\SGE VETERINARIA PIURA FINAL\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+E:\Proyectos\PRYECTO VETERINARIA PIURA\SGE VETERINARIA PIURA FINAL\SunatFE\obj\Debug\SunatFE.dll
+E:\Proyectos\PRYECTO VETERINARIA PIURA\SGE VETERINARIA PIURA FINAL\SunatFE\obj\Debug\SunatFE.pdb
+D:\ERWIN\PROYECTOS\SGE RAYZA ZEUS - TUMBES\SunatFE\bin\Debug\SunatFE.dll.config
+D:\ERWIN\PROYECTOS\SGE RAYZA ZEUS - TUMBES\SunatFE\bin\Debug\SunatFE.dll
+D:\ERWIN\PROYECTOS\SGE RAYZA ZEUS - TUMBES\SunatFE\bin\Debug\SunatFE.pdb
+D:\ERWIN\PROYECTOS\SGE RAYZA ZEUS - TUMBES\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+D:\ERWIN\PROYECTOS\SGE RAYZA ZEUS - TUMBES\SunatFE\obj\Debug\SunatFE.dll
+D:\ERWIN\PROYECTOS\SGE RAYZA ZEUS - TUMBES\SunatFE\obj\Debug\SunatFE.pdb
+E:\SISTEMAS INSTALAR TUMBES - ERWIN\SGE RAYZA ZEUS - TUMBES\SunatFE\bin\Debug\SunatFE.dll.config
+E:\SISTEMAS INSTALAR TUMBES - ERWIN\SGE RAYZA ZEUS - TUMBES\SunatFE\bin\Debug\SunatFE.dll
+E:\SISTEMAS INSTALAR TUMBES - ERWIN\SGE RAYZA ZEUS - TUMBES\SunatFE\bin\Debug\SunatFE.pdb
+E:\SISTEMAS INSTALAR TUMBES - ERWIN\SGE RAYZA ZEUS - TUMBES\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+E:\SISTEMAS INSTALAR TUMBES - ERWIN\SGE RAYZA ZEUS - TUMBES\SunatFE\obj\Debug\SunatFE.dll
+E:\SISTEMAS INSTALAR TUMBES - ERWIN\SGE RAYZA ZEUS - TUMBES\SunatFE\obj\Debug\SunatFE.pdb
+D:\ERWIN\PROYECTOS\SGE RAYZA ZEUS - TUMBES\SGE RAYZA ZEUS - TUMBES\SunatFE\bin\Debug\SunatFE.dll.config
+D:\ERWIN\PROYECTOS\SGE RAYZA ZEUS - TUMBES\SGE RAYZA ZEUS - TUMBES\SunatFE\bin\Debug\SunatFE.dll
+D:\ERWIN\PROYECTOS\SGE RAYZA ZEUS - TUMBES\SGE RAYZA ZEUS - TUMBES\SunatFE\bin\Debug\SunatFE.pdb
+D:\ERWIN\PROYECTOS\SGE RAYZA ZEUS - TUMBES\SGE RAYZA ZEUS - TUMBES\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+D:\ERWIN\PROYECTOS\SGE RAYZA ZEUS - TUMBES\SGE RAYZA ZEUS - TUMBES\SunatFE\obj\Debug\SunatFE.dll
+D:\ERWIN\PROYECTOS\SGE RAYZA ZEUS - TUMBES\SGE RAYZA ZEUS - TUMBES\SunatFE\obj\Debug\SunatFE.pdb

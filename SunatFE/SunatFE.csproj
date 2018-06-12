@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FEAB0C59-A4D0-4F8A-BC34-C18EFF540B42}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SunatFE</RootNamespace>
+    <AssemblyName>SunatFE</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.AcroPDFLib">
+      <HintPath>..\..\ANDRE ALVARADO\PROYECTO EL MOLINO\MOLINO JOSUE\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\AxInterop.AcroPDFLib.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetZip">
+      <HintPath>..\..\ANDRE ALVARADO\PROYECTO EL MOLINO\MOLINO JOSUE\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\DotNetZip.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\ANDRE ALVARADO\PROYECTO EL MOLINO\MOLINO JOSUE\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Services3">
+      <HintPath>..\..\ANDRE ALVARADO\PROYECTO EL MOLINO\MOLINO JOSUE\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\Microsoft.Web.Services3.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PROYECTO CHINININ\SGE CHINININ FINAL JSOSA\SunatFE\bin\Debug\es\System.Net.Http.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.DataVisualization.Design" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing">
+      <HintPath>..\..\ANDRE ALVARADO\PROYECTO EL MOLINO\MOLINO JOSUE\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\zxing.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="General.cs" />
+    <Compile Include="Modelos\AdditionalInformation.cs" />
+    <Compile Include="Modelos\AdditionalMonetaryTotal.cs" />
+    <Compile Include="Modelos\AdditionalProperty.cs" />
+    <Compile Include="Modelos\ConexionSunat.cs" />
+    <Compile Include="Modelos\ConsultarTicket.cs" />
+    <Compile Include="Modelos\Contenido.cs" />
+    <Compile Include="Modelos\Conversion.cs" />
+    <Compile Include="Modelos\Convertir.cs" />
+    <Compile Include="Modelos\con_NumLetraC.cs" />
+    <Compile Include="Modelos\CreditNote.cs" />
+    <Compile Include="Modelos\DebitNote.cs" />
+    <Compile Include="Modelos\DireccionSunat.cs" />
+    <Compile Include="Modelos\DocumentoElectronico.cs" />
+    <Compile Include="Modelos\EnviarDocumentoController.cs" />
+    <Compile Include="Modelos\EnviarDocumentoRequest.cs" />
+    <Compile Include="Modelos\EnviarDocumentoResponse.cs" />
+    <Compile Include="Modelos\EnviarResumenController.cs" />
+    <Compile Include="Modelos\EnviarResumenResponse.cs" />
+    <Compile Include="Modelos\EnvioDocumentoComun.cs" />
+    <Compile Include="Modelos\EspacioNombres.cs" />
+    <Compile Include="Modelos\ExchangeRate.cs" />
+    <Compile Include="Modelos\Exportacion.cs" />
+    <Compile Include="Modelos\FirmadoRequest.cs" />
+    <Compile Include="Modelos\FirmadoResponse.cs" />
+    <Compile Include="Modelos\FirmarController.cs" />
+    <Compile Include="Modelos\GeneradorXML.cs" />
+    <Compile Include="Modelos\Herramientas.cs" />
+    <Compile Include="Modelos\Invoice.cs" />
+    <Compile Include="Modelos\PasswordDigestBehavior.cs" />
+    <Compile Include="Modelos\PasswordDigestMessageInspector.cs" />
+    <Compile Include="Modelos\PayableAmount.cs" />
+    <Compile Include="Modelos\Payment.cs" />
+    <Compile Include="Modelos\RespuestaComun.cs" />
+    <Compile Include="Modelos\Respuestas.cs" />
+    <Compile Include="Modelos\Retention.cs" />
+    <Compile Include="Modelos\Serializador.cs" />
+    <Compile Include="Modelos\SummaryDocuments.cs" />
+    <Compile Include="Modelos\SUNATRetentionDocumentReference.cs" />
+    <Compile Include="Modelos\SUNATRetentionInformation.cs" />
+    <Compile Include="Modelos\Utiles.cs" />
+    <Compile Include="Modelos\VoidedDocuments.cs" />
+    <Compile Include="Modelos\VoidedDocumentsLine.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\Sunat\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Sunat\billService.wsdl" />
+    <None Include="Service References\Sunat\billService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Sunat\billService1.wsdl" />
+    <None Include="Service References\Sunat\billService2.wsdl" />
+    <None Include="Service References\Sunat\SunatFE.Sunat.statusResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\Sunat\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Sunat\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Sunat\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Sunat\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
